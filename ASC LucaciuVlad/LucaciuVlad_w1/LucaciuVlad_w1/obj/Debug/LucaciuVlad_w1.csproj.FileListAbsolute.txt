@@ -1,0 +1,7 @@
+C:\Users\irimi\source\repos\bont\repo\ASC LucaciuVlad\LucaciuVlad_w1\LucaciuVlad_w1\obj\Debug\LucaciuVlad_w1.csproj.AssemblyReference.cache
+C:\Users\irimi\source\repos\bont\repo\ASC LucaciuVlad\LucaciuVlad_w1\LucaciuVlad_w1\obj\Debug\LucaciuVlad_w1.csproj.CoreCompileInputs.cache
+C:\Users\irimi\source\repos\bont\repo\ASC LucaciuVlad\LucaciuVlad_w1\LucaciuVlad_w1\bin\Debug\LucaciuVlad_w1.exe.config
+C:\Users\irimi\source\repos\bont\repo\ASC LucaciuVlad\LucaciuVlad_w1\LucaciuVlad_w1\bin\Debug\LucaciuVlad_w1.exe
+C:\Users\irimi\source\repos\bont\repo\ASC LucaciuVlad\LucaciuVlad_w1\LucaciuVlad_w1\bin\Debug\LucaciuVlad_w1.pdb
+C:\Users\irimi\source\repos\bont\repo\ASC LucaciuVlad\LucaciuVlad_w1\LucaciuVlad_w1\obj\Debug\LucaciuVlad_w1.exe
+C:\Users\irimi\source\repos\bont\repo\ASC LucaciuVlad\LucaciuVlad_w1\LucaciuVlad_w1\obj\Debug\LucaciuVlad_w1.pdb
