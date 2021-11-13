@@ -1,0 +1,6 @@
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_18a\bin\Debug\10_18a.exe.config
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_18a\bin\Debug\10_18a.exe
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_18a\bin\Debug\10_18a.pdb
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_18a\obj\Debug\10_18a.csproj.CoreCompileInputs.cache
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_18a\obj\Debug\10_18a.exe
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_18a\obj\Debug\10_18a.pdb
