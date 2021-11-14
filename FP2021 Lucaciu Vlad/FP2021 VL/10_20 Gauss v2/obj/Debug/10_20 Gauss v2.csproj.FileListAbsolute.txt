@@ -1,0 +1,7 @@
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 Gauss v2\bin\Debug\10_20 Gauss v2.exe.config
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 Gauss v2\bin\Debug\10_20 Gauss v2.exe
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 Gauss v2\bin\Debug\10_20 Gauss v2.pdb
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 Gauss v2\obj\Debug\10_20 Gauss v2.csproj.AssemblyReference.cache
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 Gauss v2\obj\Debug\10_20 Gauss v2.csproj.CoreCompileInputs.cache
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 Gauss v2\obj\Debug\10_20 Gauss v2.exe
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 Gauss v2\obj\Debug\10_20 Gauss v2.pdb

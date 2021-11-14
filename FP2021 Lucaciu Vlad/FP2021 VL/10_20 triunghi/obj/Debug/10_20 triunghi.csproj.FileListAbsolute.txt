@@ -1,0 +1,7 @@
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 triunghi\bin\Debug\10_20 triunghi.exe.config
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 triunghi\bin\Debug\10_20 triunghi.exe
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 triunghi\bin\Debug\10_20 triunghi.pdb
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 triunghi\obj\Debug\10_20 triunghi.csproj.AssemblyReference.cache
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 triunghi\obj\Debug\10_20 triunghi.csproj.CoreCompileInputs.cache
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 triunghi\obj\Debug\10_20 triunghi.exe
+C:\Users\irimi\source\repos\bont\repo\FP2021 Lucaciu Vlad\FP2021 VL\10_20 triunghi\obj\Debug\10_20 triunghi.pdb
